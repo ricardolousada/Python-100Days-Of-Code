@@ -75,4 +75,4 @@ while not machine_off:
     else:
         make_drink(user_input)
 
-# Change the call to make drinks only to one function
+
