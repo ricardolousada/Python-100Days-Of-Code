@@ -1,0 +1,2 @@
+pyinstallter --noconsole --onefile -i='tomato.ico' --add-data="tomato.png;files" --add-data="Alarm-clock-ring-sound.mp3" --add-data="Clock-gong-sound.mp3"
+pyinstaller --onedir --windowed --icon tomato.ico Pomodoro.py
