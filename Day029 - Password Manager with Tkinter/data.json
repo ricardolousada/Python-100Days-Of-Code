@@ -1,0 +1,22 @@
+{
+    "OpenWeather": {
+        "email": "ricardo.lousada@gmail.com",
+        "password": "j!O)dNS!zl22l4"
+    },
+    "weatherapi.com": {
+        "email": "ricardo.lousada@gmail.com",
+        "password": "m4)%8aVkw10XjiT"
+    },
+    "Twilio": {
+        "email": "ricardo.lousada@gmail.com",
+        "password": "e6!NbmK2*y9KPk7orX0P"
+    },
+    "Twilio Recovery Code": {
+        "email": "ricardo.lousada@gmail.com",
+        "password": "e2mVFXGEfAShpae4uRuNMJvpea-GJZvxRPgYngcq"
+    },
+    "pythonanywhere.com": {
+        "email": "ricardo.lousada@gmail.com",
+        "password": "5uFz$(x)C9JYa8fN"
+    }
+}

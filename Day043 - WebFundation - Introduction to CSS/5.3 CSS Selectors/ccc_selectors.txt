@@ -1,0 +1,54 @@
+_________HTML_TAG_Selector___________
+all html TAG of that type  
+HTML_TAG {
+
+}
+
+HTML
+<THML_TAG>
+
+
+_________by_class___________
+
+CSS
+.class_name {}
+
+HTML
+
+<tag class="cclass_name">
+
+_________ID_Selector___________
+one id element called per file
+CSS
+#id_name {
+
+}
+
+HTML
+<tag id=id_name>
+
+_________Atribute_Selector___________
+all html elements with the attribute
+html_element[attribute_name] {
+
+}
+
+HTML
+<html_element attribute_name="">
+
+all html elements with the attribute
+html_element[attribute_name="false"] {
+
+}
+
+HTML
+<html_element attribute_name="false">
+
+_________Universal_Selector___________
+all html elements 
+* {
+
+}
+
+HTML
+<html_element attribute_name="">
