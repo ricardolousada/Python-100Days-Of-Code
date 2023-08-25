@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="359974c9-93b5-4424-bc1b-9a659799a7b3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Day029 - Password Manager with Tkinter/PasswordManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day029 - Password Manager with Tkinter/PasswordManager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day047 - Automated Amazon Price/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day047 - Automated Amazon Price/.idea/Day047 - Automated Amazon Price.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day047 - Automated Amazon Price/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day047 - Automated Amazon Price/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day047 - Automated Amazon Price/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day047 - Automated Amazon Price/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day047 - Automated Amazon Price/html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day035 - Keys, Authentication and Enviroment variables/.idea/Day035 - Keys, Authentication and Enviroment variables.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day035 - Keys, Authentication and Enviroment variables/.idea/Day035 - Keys, Authentication and Enviroment variables.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day035 - Keys, Authentication and Enviroment variables/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day035 - Keys, Authentication and Enviroment variables/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2UDJQbIraJBru3N3dK8ECCY3v0L" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,7 +36,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/LOUSADAR/OneDrive - FUJITSU/Documents/Pessoal/Learning/Python100DaysOfCode/Python-100Days-Of-Code/Day045- Web Scraping with Beatiful Soup/Starting+Code+-+100+movies+to+watch+start"
+    "last_opened_file_path": "C:/Users/LOUSADAR/OneDrive - FUJITSU/Documents/Pessoal/Learning/Python100DaysOfCode/Python-100Days-Of-Code/Day046 - Spotify 100 Top Song playlist"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
