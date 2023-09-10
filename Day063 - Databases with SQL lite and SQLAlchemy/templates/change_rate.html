@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   {% from 'bootstrap5/form.html' import render_form %}
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    {% block styles %}
+      <!-- Bootstrap CSS -->
+      {{ bootstrap.load_css() }}
+    {% endblock %}
+     <title>Change Book Rate</title>
+</head>
+<body>
+<h6>Book Name: {{book_name}}</h6>
+<h6>Current Rating: {{rating}}</h6>
+ {{ form.new_rating(size=20) }}  {{ form.button }}
+ {{ bootstrap.load_js() }}
+</body>
+</html>

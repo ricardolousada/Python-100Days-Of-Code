@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% from 'bootstrap5/form.html' import render_form %}
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    {% block styles %}
+      <!-- Bootstrap CSS -->
+      {{ bootstrap.load_css() }}
+    {% endblock %}
+    <title>Add Book</title>
+  </head>
+  <body>
+    {{ render_form(form) }}
+   {{ bootstrap.load_js() }}
+  </body>
+</html>

@@ -1,0 +1,3 @@
+go to console and type
+
+document.body.contentEditable = true
